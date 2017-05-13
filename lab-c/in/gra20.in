@@ -1,0 +1,3011 @@
+5
+500 100
+F F C
+E H A
+C B H
+C G H
+G E G
+F G G
+F H G
+G H D
+E E C
+C D A
+H F E
+G F B
+H E G
+G D A
+C B C
+A H A
+H G F
+G B C
+C D B
+F D F
+C A H
+H B G
+D H E
+H H E
+A B C
+A B E
+G H E
+H B D
+C C B
+F A E
+F H B
+H G E
+G C D
+G G H
+H A G
+B E G
+A A G
+B D E
+E F D
+E B F
+D C D
+B G A
+E C H
+C B G
+D H E
+H F D
+A E E
+D A E
+A E G
+B B C
+E E G
+C F B
+E E D
+F C H
+E G B
+C C E
+G G E
+G D E
+C B H
+E D A
+A B B
+F C F
+C F A
+E E E
+D G C
+F C G
+D G A
+G C G
+H C F
+C C H
+D D D
+G B E
+D B B
+A F D
+G H A
+A G D
+H G A
+B F D
+D C C
+F B B
+B F E
+C B H
+D C F
+A G B
+A G B
+G B H
+E B H
+B E G
+D G A
+F A D
+C E B
+D D C
+F B E
+D C H
+B D H
+C C H
+D B F
+A A C
+G A D
+G D H
+C E E
+G G G
+H C B
+B B G
+E B C
+G A D
+H G G
+H A B
+H D B
+D C A
+H G G
+G E B
+A F H
+C E G
+D G H
+D B D
+B H B
+B B A
+F C A
+H C H
+G B C
+C C C
+A B A
+E H A
+C G C
+D B F
+D C B
+E C C
+G C E
+B C B
+C E A
+E G G
+F G B
+E H B
+C B F
+D H H
+F A C
+H C F
+C G B
+E H A
+A A B
+H G D
+F H H
+E A E
+G F A
+F E C
+F H F
+H E C
+G G B
+F G D
+F H H
+E C A
+D B H
+E F E
+B F B
+G H H
+F E E
+B G B
+H H A
+F D G
+E C E
+G C B
+H B F
+E G B
+B H F
+A G G
+E C E
+C D B
+C D D
+F C C
+H G A
+C H E
+D F D
+B G C
+A D H
+G B A
+A G B
+D H F
+H C A
+B F C
+H F H
+G B G
+D E A
+B H E
+E G F
+G G G
+E H E
+D F F
+G F A
+D H H
+A G A
+B E H
+G F G
+F B B
+D G D
+B E H
+B B F
+G G B
+D G F
+C G D
+A G G
+E G G
+B E H
+C F F
+B A C
+F A F
+G F H
+E H A
+D E G
+B H B
+H F D
+F D D
+B C H
+H A B
+H C D
+H A E
+F H C
+E H A
+A F F
+H G A
+E B B
+H E A
+B D G
+B E H
+E A G
+E E G
+D G F
+C H C
+H E G
+F E G
+G F F
+C F B
+F D A
+C D C
+C B D
+G H H
+F F D
+E H G
+A G A
+E E H
+B C E
+G D C
+C E E
+F G C
+G B E
+G B G
+D E E
+C D B
+A D F
+F D F
+H H B
+C C C
+G G B
+E A D
+G E A
+H C G
+D H E
+G A H
+C G C
+F D C
+E F H
+G H G
+F A B
+F D H
+C D E
+E C C
+D G B
+E G E
+C A D
+F C F
+C C C
+C A G
+C B F
+G B C
+B F H
+D H B
+C A G
+A E B
+A H F
+C E H
+E G F
+F F H
+G C B
+H E E
+E D C
+D F D
+D D H
+A E B
+H C B
+E B B
+C G D
+H G A
+B H F
+F D D
+B F D
+G B H
+B A D
+F B G
+H C G
+B D G
+H G C
+F G E
+F D E
+A H F
+G C D
+H B E
+H E C
+A D D
+C B A
+F H A
+D B B
+C G A
+F C G
+E H D
+G C D
+A G B
+E A A
+H D H
+B E H
+A E B
+C F G
+A F C
+C D E
+B G B
+E C G
+C D E
+D E E
+G D B
+C D A
+G E B
+D D C
+B F E
+E B E
+D C G
+F A H
+A F D
+E B G
+A C B
+D D H
+H E C
+C G A
+H C E
+A G F
+D E B
+D E E
+A H B
+C F C
+E G G
+H G G
+E A B
+C A B
+F E D
+D B D
+A D D
+E H G
+D B C
+B D C
+H B E
+F A B
+F B A
+G C E
+C G H
+E B E
+H E H
+G D H
+H F D
+C H H
+E E A
+E F H
+F F F
+A C C
+G B A
+H F D
+D E H
+G E G
+D H E
+D G E
+H G G
+E G C
+B D G
+D F E
+E G E
+B B C
+G A B
+C G E
+B C D
+A G G
+G F B
+E H A
+H G E
+F C G
+D G B
+E A G
+E B H
+C F F
+E A H
+D H B
+A A B
+H B H
+F F E
+H D D
+F F A
+F D D
+G C H
+E A D
+E H F
+D A C
+E B F
+F B F
+C F E
+G A C
+D B B
+G E H
+A E E
+A H D
+A F H
+A H D
+C E H
+D B D
+A F A
+A H C
+B B A
+G A D
+C E B
+B H C
+G G C
+F C C
+B B D
+C E F
+A E A
+H G A
+A H A
+A C C
+F E A
+E G C
+D A D
+F D C
+G G H
+C D B
+G D D
+E D D
+D D D
+G F D
+C F E
+A H B
+A D F
+D F A
+B E F
+E F D
+H B F
+C E D
+G H A
+D D D
+B H B
+A A D
+D F D
+A G E
+F D H
+C H B
+D E F
+A A F
+H A H
+C D F
+B F B
+B A C
+H E C
+F A G
+A H G
+H A D
+E G G
+E D B
+E C B
+H A B
+E B D
+F D F
+B F G
+B D F
+A C C
+B F D
+H D C
+C F G
+E G C
+E H G
+F D G
+A A C
+G G H
+B E A
+D G B
+B B C
+E E D
+B C C
+A F E
+H D A
+C B F
+C E C
+B D D
+F E B
+D F C
+F H G
+B C H
+E h
+F h
+A q
+B b
+E w
+F s
+A r
+B x
+F x
+E y
+H v
+G j
+F h
+A c
+A g
+H b
+E t
+F k
+B p
+B w
+E y
+F i
+A j
+A k
+B p
+G d
+E s
+D y
+C f
+F t
+E n
+A e
+B j
+G t
+E c
+A l
+F g
+F v
+E b
+C a
+D t
+F e
+F t
+A n
+E h
+C n
+B f
+C c
+A i
+F o
+H o
+E r
+D w
+C o
+A v
+E s
+F v
+C b
+C e
+B o
+H z
+A i
+G u
+D w
+C k
+C u
+F n
+F x
+B a
+H l
+E d
+E p
+F h
+D o
+A h
+G y
+A f
+H o
+A v
+F i
+C y
+D k
+H s
+A z
+A w
+B s
+D s
+F b
+D a
+A k
+F t
+C s
+F t
+E b
+E v
+A y
+C q
+G f
+E r
+B d
+rxqjgrjhgvtbglbcucsqqsmhctrvaukrtacatnjbjccrpdtmimeygqhjjzejvraptfrnsaqdetvtyoficjjjzqslryuppxejcvwu
+500 100
+C C H
+B D D
+H A A
+E A G
+H B H
+D G B
+D H C
+F G G
+G C H
+E F H
+G E A
+C H C
+C A D
+C G C
+E F G
+C G F
+B A A
+A H E
+C G B
+A G H
+E G D
+E A B
+E D D
+C F F
+H E A
+G B E
+G C G
+F G H
+E H H
+C G C
+A B C
+A C G
+D G C
+A D G
+E D A
+G H A
+A F G
+G F E
+F E C
+D G G
+E A A
+G H A
+E B A
+A A D
+D A D
+D A A
+A G G
+F D G
+C F E
+A D B
+B D E
+A D A
+B D G
+B G D
+C B D
+C B G
+B H B
+E F C
+B B H
+E C B
+H G C
+C G D
+F F D
+D A E
+E D G
+G B A
+F D C
+D F D
+E E H
+H G A
+F A E
+E D D
+B G F
+B C C
+E A F
+F A C
+A D A
+F G F
+C G A
+A G F
+A D E
+D G B
+B E F
+D G G
+E E H
+E G D
+H G B
+G D B
+E E H
+C B B
+F F B
+E G B
+A E E
+G C F
+C C A
+A F E
+G G B
+C A A
+G H G
+H A C
+E B F
+C C C
+G G G
+B D G
+D D F
+A A H
+H B A
+H B G
+G A A
+G C G
+H H F
+B C B
+H A E
+C H C
+F E D
+F D G
+G D H
+A C G
+A C F
+C B D
+C G B
+E A A
+E E B
+D G A
+H C C
+D A H
+G H F
+A F D
+D C D
+E F D
+C G G
+C G A
+G H E
+F H A
+H B E
+H B D
+H G G
+E B F
+H F F
+E A A
+D G E
+B G H
+B C B
+A D A
+C H F
+D C E
+B B D
+C G C
+H D H
+A E G
+G A C
+F H F
+H B H
+C B A
+B G A
+E C C
+F F F
+D A G
+G H B
+C F A
+D H A
+C F H
+D E E
+E E D
+C E G
+E H H
+C E D
+C D A
+B E D
+G E C
+F F E
+C E H
+G A C
+C D F
+H B C
+G B E
+C E B
+F F D
+B A F
+G C G
+D H E
+H G B
+H A E
+C G C
+E A F
+F E E
+B F C
+G A E
+H F C
+B D D
+A H B
+H B E
+H F D
+F H C
+F E F
+C A B
+H C G
+A H H
+F B G
+B E F
+A G G
+B C H
+G G G
+G A F
+C F D
+D G A
+F E C
+E E C
+F C C
+C H H
+A F A
+C E B
+A C C
+B A B
+G D H
+F D B
+B G E
+F A C
+H C G
+G B E
+E C G
+A D G
+D F A
+D G B
+G F C
+B H A
+H D F
+H F H
+B E E
+D A E
+F G C
+A E G
+F E H
+E F C
+B H F
+A A D
+E F E
+B E E
+F B D
+F F F
+D H A
+H G F
+E F F
+B H C
+B E G
+B H A
+G D A
+D H E
+E D G
+B A D
+A A B
+G F E
+D C E
+C E A
+G D B
+F D C
+B D D
+A A C
+D G F
+D B B
+D C C
+A H C
+C D B
+H D E
+C E H
+F H F
+A C D
+A E E
+G B E
+A C A
+C E D
+B H H
+E A H
+H E C
+E D B
+D B D
+F E A
+C A A
+D E B
+G E H
+C A H
+B H C
+B G D
+G A A
+B B H
+C E D
+G E G
+G F E
+D G G
+H F B
+H F H
+G H C
+F C D
+F C F
+H C D
+D F E
+A E H
+F A F
+D G E
+A H H
+F H G
+E B G
+H E E
+B B B
+D E H
+B B G
+F A B
+F F B
+D B G
+C A B
+B H C
+C F H
+H B E
+A D D
+F C E
+G A A
+G B B
+D D G
+F B D
+F D G
+E F A
+B E C
+D A E
+G D D
+A A E
+A A B
+B B H
+E H F
+G C A
+B A F
+G A D
+C C H
+D H B
+G C E
+G G C
+G H C
+H G C
+G D D
+A E A
+A B G
+B E H
+D E F
+C F H
+F B C
+D D B
+D F H
+B H G
+F C F
+B C E
+C A E
+H H F
+D E G
+A E B
+B G E
+E H B
+B H E
+A F H
+C C B
+F G G
+F D H
+F A B
+B G A
+F H D
+E D D
+D E E
+C B A
+H A B
+C B B
+A H E
+D G B
+D A G
+B A D
+B E F
+E H C
+B E G
+C E C
+C G E
+E H E
+D D G
+C E G
+C D C
+C G F
+G D H
+G G A
+C E E
+G G F
+E D H
+E H C
+H F G
+E D B
+H F D
+F D F
+B C A
+H C G
+D G E
+C E G
+F D F
+E F B
+B D F
+E F F
+C A B
+F G A
+H G F
+B E G
+H B F
+D H B
+H E D
+E G A
+A D E
+F A F
+F B B
+D B D
+B H A
+G F H
+H D A
+G E A
+D H D
+B H C
+E D H
+F A H
+G B E
+A F B
+H F F
+E F G
+H F E
+D F D
+C B C
+B D F
+E C G
+E B C
+G F H
+D H G
+A E G
+F C F
+D H B
+A C B
+B E E
+F B H
+H H A
+B C F
+G B B
+F H H
+B F C
+E C D
+D E A
+F F D
+C B E
+D A F
+D B C
+F G C
+G H D
+G H B
+D B H
+G E A
+C F E
+H A H
+A E F
+B C H
+C E C
+A G F
+H B C
+G D B
+A C H
+E C C
+B H A
+C G C
+G D B
+A C C
+F F D
+D C F
+F F F
+A G E
+C F D
+E H D
+D A H
+C C B
+F E D
+A G B
+F B C
+H G H
+E D C
+C H H
+H C H
+H F B
+H F G
+B G B
+F B D
+D C B
+E E B
+C D G
+F G F
+F F C
+H F E
+F G E
+C E D
+A G C
+B B D
+D C B
+A D E
+D B B
+H r
+B h
+H r
+F s
+F c
+C d
+E i
+E b
+F k
+C y
+F k
+B d
+H j
+B g
+G y
+E s
+G f
+G p
+D j
+B n
+F o
+D z
+C b
+A t
+E j
+G s
+F t
+C f
+D a
+F l
+A p
+G t
+G g
+D w
+A t
+B c
+H d
+G i
+E e
+B s
+A w
+B l
+G f
+C w
+H c
+D j
+A p
+F s
+G o
+H k
+E a
+D s
+F q
+G m
+A d
+B l
+H p
+G u
+G n
+H e
+H c
+F l
+F t
+F n
+D t
+C q
+F o
+E b
+H k
+D c
+B s
+B s
+G m
+G d
+A h
+D t
+A z
+H c
+D l
+B c
+B t
+H d
+A e
+A n
+F s
+A h
+H g
+H v
+A n
+C v
+C k
+A h
+G z
+A f
+D d
+A r
+E c
+C f
+C b
+F y
+jfhsgclwcispaabzogkrpdqsaxadqzybgftnjgjlqdcrfdqtlcndifxicxlsylwfqrubyfoqirhquajicwlmbiwehjyguwnmojno
+500 100
+G E E
+G F E
+C F C
+C D G
+B A A
+D C E
+F C C
+F C G
+C D F
+F C H
+B G D
+G C B
+E F H
+H D B
+A D E
+C H F
+E B A
+G A F
+B F D
+D E F
+B H C
+E A E
+B A C
+E B G
+H F G
+H C G
+A D A
+A A F
+F D D
+B A F
+A D A
+B H C
+B B G
+C A H
+A G D
+C E C
+F E B
+G B C
+B F C
+C C A
+F C B
+E E C
+F C D
+F B E
+D E G
+H H G
+E A B
+F C G
+C F E
+E F G
+H G A
+D A F
+G D B
+H H G
+E G E
+D E H
+D F H
+G E D
+D A A
+A G D
+G G H
+H D G
+C E C
+C D A
+A H H
+E G D
+C F G
+G A C
+G B A
+F E D
+D D D
+H C B
+D E A
+G E D
+F D F
+E H F
+B F B
+C H D
+D H B
+H C A
+C F F
+E H A
+A H H
+E C D
+A H B
+H E H
+E G D
+E B E
+D D G
+G D B
+D A A
+C A D
+C A H
+E D A
+E E E
+A D E
+G G D
+A D A
+D B E
+G D H
+G D F
+G G B
+G G D
+B G F
+G C C
+B H G
+A C G
+D C F
+E G F
+H G A
+D D G
+B E E
+H A C
+F F B
+A H C
+H F A
+B E C
+E B C
+C G F
+A G B
+E E B
+A A E
+A C F
+G D F
+F G C
+D G C
+H A B
+A C D
+G H H
+E B B
+A C C
+A G G
+C D G
+G A H
+E D F
+C F C
+D H F
+F C E
+F B E
+G C C
+A E G
+G C G
+B B G
+C A B
+F F H
+C H D
+B F F
+D B A
+E G G
+H A D
+D H B
+G F B
+H E H
+H F A
+E E C
+D H H
+A E C
+C F D
+A D H
+A G D
+H H C
+F A G
+B H E
+G H D
+C C C
+B B G
+F D B
+C H C
+F G E
+D B E
+C E E
+C C E
+B G B
+B B C
+D D A
+E B C
+A C D
+H E A
+F A D
+G E A
+C B E
+E F G
+C G B
+D A C
+G A D
+H C G
+C F D
+G F D
+H A C
+D B H
+E F F
+B D A
+H E E
+H H H
+H C C
+B B B
+G E A
+E H C
+E B B
+F A A
+C F D
+G F A
+C C B
+B B B
+E D A
+F E A
+B F B
+A H A
+B A E
+B A A
+G E G
+E E A
+G F G
+H G B
+C H C
+H H G
+E A D
+D A E
+E E E
+E F F
+A D G
+E D F
+C C B
+A D H
+H F G
+G E A
+H H H
+H E D
+E A H
+B G D
+E E H
+H B A
+B C E
+E B G
+C H H
+G A G
+F H F
+B D E
+C C D
+A F H
+E E A
+G E E
+A B E
+C H F
+B G C
+B F E
+B C C
+E G H
+G B B
+D B D
+H B D
+E G H
+F C F
+E H G
+D B A
+A F B
+C H D
+A H E
+B A A
+C D G
+E G B
+C F A
+E D E
+D B B
+F B G
+C C B
+C F B
+B B D
+B B D
+E H E
+C A H
+H B D
+C F F
+D H B
+E F E
+H G B
+E H E
+G C G
+H F H
+H B A
+H A E
+A D G
+G A F
+F B A
+C G D
+A H A
+H D H
+B B D
+G A B
+H A B
+A E A
+D C H
+E A A
+F A G
+D D D
+D D F
+G C F
+A G E
+A H F
+B A D
+F A C
+A A C
+A A G
+A G C
+D B H
+H G D
+B D G
+H H E
+H E E
+H H F
+A B G
+A E D
+A C D
+G E D
+H D D
+F G H
+A E G
+H B H
+D F H
+C C G
+D A F
+H E F
+B H F
+F D F
+B G D
+H F C
+E D H
+F D H
+C C G
+F A B
+F F D
+B D H
+B A G
+E G A
+C B F
+A E G
+D D G
+G D C
+A B H
+A D B
+G G G
+B F E
+B E F
+H E G
+B B C
+F A F
+A G F
+D A A
+F H H
+A A H
+G H A
+E D G
+A A H
+E H A
+F B A
+F G B
+D D G
+D E G
+C D C
+D C H
+C C H
+F A F
+F H B
+E A B
+G A F
+E B D
+A H A
+E F E
+H H H
+B G C
+E F F
+E D H
+E E E
+E G B
+E D G
+F G E
+E H A
+B D A
+B C E
+H E D
+F B F
+A A B
+E E F
+C G B
+G E F
+E A B
+D A G
+G B C
+B F E
+F B F
+H G E
+H H B
+E E B
+C G G
+G D A
+G F G
+G D D
+H G G
+F C F
+G H G
+E D D
+D F C
+H G C
+F E G
+B F A
+G D G
+B G E
+H F C
+B C C
+A A H
+E D F
+B G B
+H A E
+E G D
+B G B
+E E C
+D A A
+A C B
+C E B
+C D C
+F A D
+D B H
+D F A
+B B H
+H C D
+D E E
+D E B
+G F E
+C G E
+G B G
+G E A
+A D F
+F D B
+G C E
+A G G
+E C F
+A D B
+G H E
+E D C
+F B F
+B B D
+E H B
+H A B
+C E H
+A C F
+C A G
+G B C
+F F D
+B A B
+C F F
+E A D
+D B E
+D D B
+H C A
+C H C
+C F C
+D A F
+A D D
+A E A
+F B B
+F E E
+H B A
+C C D
+E C G
+D F F
+B H H
+B E B
+E H E
+A A F
+B B F
+G F D
+H F A
+B A H
+D G B
+A E F
+A D B
+E F C
+E B D
+E G H
+F E H
+D H A
+A H G
+B H F
+H A G
+D G C
+H H C
+E B C
+F E H
+E D D
+A C H
+H C E
+G B H
+F G A
+G F B
+E H A
+D B E
+E E D
+A D H
+D G E
+F F A
+B u
+H b
+A b
+B a
+D p
+E a
+C z
+F b
+E q
+B u
+E w
+D k
+F k
+H f
+G p
+G q
+E s
+B p
+D w
+D w
+E p
+A z
+C i
+F e
+G d
+H y
+H x
+H r
+E y
+B d
+D l
+D b
+F p
+E a
+G k
+H z
+H w
+A s
+G b
+A h
+E y
+H k
+D r
+H f
+G b
+C e
+A d
+B r
+B b
+F j
+E p
+B p
+F l
+F u
+H j
+H x
+F j
+G f
+G k
+A t
+G u
+F a
+A i
+D u
+D n
+B y
+F q
+D s
+E a
+F s
+G q
+H r
+E x
+E g
+D i
+G w
+G z
+H b
+C u
+A u
+D b
+F n
+D k
+D v
+B u
+E w
+F f
+D p
+B n
+D n
+D v
+G z
+F l
+A g
+A x
+E o
+B x
+E s
+D i
+E x
+cvsininadcyanxzayhgxjuwjxqtifsojphtcpifukdxzcwabdgaodyxcosmvmdfckagbjlxtquttsvwvdwmgvlljgxfsamwmmdpv
+500 100
+F F G
+E B D
+F A G
+C H A
+H H A
+G D D
+H B H
+A H E
+E E A
+G B E
+D H C
+E C H
+E A D
+E A A
+D B C
+G E B
+H D H
+H H H
+D H H
+E E D
+D G B
+G F E
+G A B
+H A F
+A C B
+E E F
+A D D
+H C D
+H B C
+D F F
+B G B
+G D E
+G E C
+G B B
+A D A
+E A A
+A D E
+C G E
+E A E
+B F D
+H G G
+C D H
+G F F
+A G D
+D G B
+D G B
+G D G
+F H G
+F D A
+D G E
+B E F
+E D F
+C A H
+A D G
+H E G
+F G B
+A E E
+A C C
+D C H
+C H F
+G E A
+C B B
+C B G
+G H A
+C F A
+A G H
+E C F
+G E F
+B E F
+A B B
+E B D
+G C B
+H A D
+G A G
+D B E
+B A G
+D F H
+H D D
+D A C
+E B D
+F E D
+A G H
+A B F
+B H E
+C D C
+C C F
+A B G
+D E B
+D G B
+F B E
+B E B
+H E G
+B B G
+A G H
+E A A
+G G C
+H E E
+D G E
+C H H
+D D D
+A E A
+E D B
+F B B
+D A C
+E A C
+C C G
+G H E
+E D D
+D D H
+H G B
+D G E
+G H E
+A A A
+A C G
+B F B
+D D F
+C A H
+G D G
+B C C
+H D G
+F A F
+E E A
+F F H
+H D H
+E E H
+A C A
+A B E
+D H G
+G C E
+B A F
+B F E
+G F B
+D E G
+G D D
+C D C
+E D H
+G H H
+F G H
+H C C
+H A A
+E E C
+C G D
+G E B
+C H E
+F B C
+A A F
+A H B
+G G H
+A B F
+A B E
+F D E
+D H A
+H A C
+G F B
+H H D
+A E A
+H G A
+G F A
+H C G
+A H H
+E D H
+D D E
+D G H
+A H G
+A C E
+E C E
+C C E
+A D D
+C B B
+B A A
+E A B
+A E F
+G E A
+F C D
+H H E
+B D E
+D H A
+G C D
+A E D
+A E F
+A F H
+F C D
+B C D
+D G B
+C C G
+F G F
+E G G
+H B C
+D E A
+H C A
+F B B
+H E B
+C A G
+A B H
+C A D
+A F F
+G E D
+A G H
+E G G
+G H B
+H A B
+E B G
+E A F
+F H H
+F C H
+D A B
+H D B
+F C A
+D B A
+C C E
+C D D
+E B C
+E H G
+D G C
+G G A
+G H F
+B B A
+D B H
+E B E
+H F A
+C A C
+E D F
+D B B
+B E F
+H E A
+H B G
+A C E
+B B F
+C G B
+H G F
+A A E
+D F H
+E G D
+A D G
+E E H
+G C H
+A H G
+B E G
+H F H
+F D B
+G H A
+D G A
+C B D
+F H A
+B H A
+E G F
+D E D
+H C D
+F B E
+A C E
+H C B
+G D H
+H G D
+H G F
+G H C
+E E E
+A H A
+C C D
+D G C
+F C H
+H E H
+C D H
+B G F
+H D E
+G G D
+C C B
+B C F
+D F F
+C H H
+E H C
+A G H
+E F H
+C C B
+G H C
+E C C
+G E A
+A B D
+F H E
+E G A
+D B C
+C A G
+H H H
+C B D
+B D F
+D F D
+H G H
+B B F
+A F F
+G F C
+H H H
+A G C
+H F E
+A A E
+E F G
+B B H
+H A C
+A G C
+G D D
+D G D
+D F B
+B H B
+G E B
+G A A
+D G B
+E F F
+F H G
+D B G
+G E G
+E H E
+B B A
+B C D
+F D E
+F D C
+D E A
+A B D
+H A A
+B G F
+F E A
+F B G
+G B D
+A E E
+D A F
+G C C
+D C H
+E F C
+E F C
+C C C
+H C D
+A B A
+B E F
+F A D
+F G D
+H A G
+B A F
+G C A
+E F E
+G H B
+B C D
+C C C
+G A C
+G D D
+E H A
+F F F
+F C E
+H C F
+E H E
+D A A
+F D G
+A G H
+A A B
+D E H
+C E G
+A C C
+C G H
+F E E
+E A E
+E A A
+H G E
+F G B
+G H B
+C H B
+G F F
+A H H
+H H H
+D D C
+D H H
+D A D
+B E H
+H F G
+H H E
+G A C
+D F E
+C F C
+B E D
+F G C
+E F F
+E A A
+A H D
+G G E
+F C E
+F E D
+D A B
+A C E
+E F G
+D H A
+A E F
+B E B
+A H G
+G E G
+A A E
+E D B
+E E H
+H A C
+E G C
+E G G
+A D B
+F F C
+E D D
+A B D
+A G C
+D H C
+H G H
+H A D
+G C C
+E B H
+A C D
+F E D
+A H A
+B D F
+H F F
+H H G
+F G B
+G C B
+A E A
+B D G
+E G D
+A C D
+A C A
+D H A
+A F B
+H D B
+G E A
+A F F
+E G D
+A E E
+G H F
+A C B
+D C C
+C C C
+H E F
+C F F
+H F E
+E C C
+C G C
+H C H
+G H H
+B B F
+D D G
+G F B
+C C D
+H H D
+E D F
+G G E
+E A B
+G H D
+G G C
+H E B
+C C C
+H D F
+B G D
+A B F
+D H E
+B D A
+C E H
+B A D
+A C C
+E D A
+G F H
+B D B
+H G A
+B E B
+A A B
+D B E
+A A G
+A D A
+C F B
+G F B
+D E F
+G F D
+F F E
+B G E
+B H F
+C E F
+C C A
+G C A
+D D A
+B F D
+F C B
+D G E
+A C D
+H G A
+G D B
+C A C
+E B F
+G B H
+C C F
+H F B
+B G C
+H C H
+C F C
+A F D
+E G C
+E B A
+F G D
+H F H
+B D G
+G E A
+E G H
+G F A
+E A A
+D m
+C n
+A j
+F k
+D l
+H i
+A i
+H k
+H q
+G e
+G t
+B v
+F u
+B f
+H p
+H z
+G o
+H i
+A g
+H c
+F l
+E g
+D d
+D v
+E q
+G x
+G q
+F b
+G d
+B a
+D t
+H y
+C p
+A g
+D b
+G n
+G a
+F k
+G n
+D y
+B i
+E p
+B p
+C l
+H z
+F n
+E o
+E c
+D u
+B a
+D w
+G o
+C j
+C b
+D e
+C a
+H y
+D p
+A i
+A j
+B q
+C d
+B n
+D k
+C s
+C h
+F a
+H o
+D t
+A i
+A s
+C o
+B b
+A h
+D i
+C w
+F q
+B g
+D i
+D m
+B d
+D t
+G q
+G r
+F b
+A m
+A n
+E o
+A g
+E a
+E p
+H q
+C z
+A k
+E n
+D l
+A s
+E y
+B m
+A u
+sgmfjawryyhnxxuwtgejfpcxuchiueymmmuxnqonqxbnwxkseqbjifiehpobvpqkbkhqcyesvhgseskkkntssbyztnbqcrafdiwf
+500 100
+B A A
+D F D
+H F F
+A G F
+C H A
+F B G
+E G G
+E E H
+B D A
+D B D
+D B C
+A E D
+G C H
+E H G
+D A G
+E G B
+C E G
+H D C
+C D G
+D G H
+E A D
+A E G
+C D H
+C B F
+C A B
+A B E
+F H B
+A B D
+E H C
+C G E
+D B H
+H A D
+C H E
+D E G
+D F A
+E B C
+D C D
+E G A
+D A A
+C F E
+D E H
+D A C
+C E B
+G C D
+D D G
+F F C
+H A G
+F A C
+G B G
+D F C
+H E E
+H G H
+D H D
+G C F
+B B E
+G D H
+H B E
+H D E
+A C B
+G E H
+C A C
+B H C
+A C B
+D A F
+E E D
+H D E
+A A C
+E E B
+G F B
+C F B
+C H H
+B B C
+E D D
+E A D
+A D G
+D H C
+D B B
+H D C
+F E G
+C F E
+B F G
+D H A
+G C B
+G F F
+B E B
+A G B
+B A F
+E C A
+A A A
+G E F
+D C H
+C C A
+E D D
+B B B
+F C H
+E E A
+E B A
+G B C
+G B G
+C G H
+E F F
+G G A
+B B C
+C D G
+F C H
+B D F
+C D B
+D F F
+F E D
+D D B
+B A D
+H A H
+A C F
+D A G
+G H B
+B E G
+E F H
+C C B
+G F E
+B G B
+B B F
+B A G
+D F F
+D E F
+C F B
+H D H
+E C A
+H D E
+E H G
+D B E
+E G F
+F E G
+C B H
+G G C
+D H F
+G G A
+A G H
+D D D
+D B C
+E G H
+C D C
+G C G
+H B D
+F E G
+F B E
+D B A
+C A G
+F E H
+G G C
+E F F
+A H B
+C G D
+D B B
+H H A
+B E G
+C E D
+D C G
+H B A
+F E F
+D B E
+C D A
+A G A
+C A C
+B A G
+F G F
+B B G
+E A B
+F A E
+B G D
+D C A
+G C D
+E D G
+E F G
+F D A
+D B C
+F H H
+F A B
+F E F
+D H C
+F A E
+A D H
+D B F
+A A B
+E A G
+F C D
+E C G
+F D D
+B A A
+B C G
+B G B
+E F H
+G C H
+G E C
+G C C
+B F G
+D D D
+G H A
+G H F
+A F G
+H H H
+E G A
+H F F
+D H D
+F B B
+C A H
+F D A
+E D D
+E A B
+B H H
+A G A
+G H H
+D E D
+C H C
+E A F
+E H C
+H A E
+D D C
+D F G
+C E C
+B E E
+A D E
+E H D
+D B G
+D H B
+C B F
+C G B
+G A A
+D G D
+H B H
+E F B
+H B C
+G E C
+A D G
+H E B
+A B E
+G C H
+G C B
+F G H
+G F C
+D G C
+E B G
+B D F
+E C E
+A D E
+B A D
+D H D
+F A C
+D A A
+A C F
+H E D
+A C G
+D A D
+F E E
+B A A
+B D A
+A G B
+A A E
+A B B
+D G F
+H C F
+C A E
+C D E
+G H A
+G H F
+B H G
+H A H
+A E H
+B G A
+H D A
+B A D
+C F D
+F B F
+F B H
+E H F
+E F D
+E F E
+B E D
+H E D
+C F E
+C A E
+H D F
+B A H
+C H F
+B E C
+H H G
+E D C
+A H H
+F C A
+C H H
+C D B
+G A D
+G A D
+G F E
+C H G
+C F A
+F A H
+E H D
+H H D
+G G A
+B H C
+B C F
+B F D
+G B B
+F A H
+D A C
+D H E
+C C B
+B F G
+H G F
+G A D
+A F E
+G A F
+H C H
+H B F
+H D D
+G H G
+A B B
+G H D
+E E E
+E H D
+C D B
+C A B
+E H H
+G F H
+B A G
+B G G
+C H E
+B C F
+F G D
+E B H
+H C D
+H D F
+H D A
+E C E
+E A C
+C G E
+B D F
+D A H
+B D A
+C C F
+E F B
+H D A
+C D H
+E H G
+F C C
+D G G
+G D A
+G C B
+B C E
+D H F
+B A H
+E A D
+H H D
+G G F
+A A C
+G H H
+B H C
+D B B
+F F H
+E D B
+E C E
+E G F
+E B B
+C G A
+C A H
+B H H
+B C G
+C D H
+H C D
+C D A
+F A F
+D F B
+E H G
+C H C
+D G E
+C G G
+E E A
+H D B
+C G D
+F H C
+F E F
+D F C
+C D F
+B F B
+A B D
+G A G
+C A B
+F B F
+E E F
+D G H
+H D E
+E F C
+A C F
+F D H
+H H A
+H F A
+H G G
+A E A
+E B G
+C A C
+G E F
+D G E
+G D A
+B C A
+A D G
+G D F
+E C E
+A C D
+B A D
+B C H
+G H B
+E D H
+A E D
+C E B
+F C C
+B H D
+D D B
+F G F
+G B G
+A A H
+A C B
+D B H
+H E D
+E F D
+G A G
+G D D
+B E E
+A B H
+B H F
+C H D
+E A D
+F H D
+C C H
+H G G
+H E C
+C H B
+G E H
+A D A
+H A A
+G D C
+G H E
+F C A
+A B F
+G A H
+C C H
+B D G
+F C B
+B D H
+B D H
+F F H
+E B F
+G B E
+A H B
+A G B
+C F H
+G E B
+A F D
+D E A
+H E B
+E D D
+G A A
+H E E
+G G C
+F H C
+C H C
+G A F
+D D D
+A E D
+E F H
+H A G
+H A C
+E E A
+C H A
+B B G
+A E D
+B B G
+E E E
+A H A
+G G A
+G E E
+H H D
+D H C
+C H G
+E G A
+A B C
+B H C
+F E D
+E E A
+D E A
+H A G
+G D F
+G F E
+F E H
+D E C
+F G G
+E B G
+A E H
+E E E
+A F A
+A D D
+A v
+B h
+B w
+E t
+F z
+B g
+E g
+F y
+B o
+B k
+C v
+C v
+F p
+H j
+C p
+E m
+D v
+H v
+F m
+B p
+B u
+C b
+D h
+H u
+C u
+B q
+F a
+D x
+C n
+E x
+D t
+A o
+F g
+D h
+D a
+E g
+H u
+C z
+H k
+G z
+C z
+F w
+D h
+C t
+E c
+D y
+G b
+F l
+C y
+G c
+F r
+C x
+C u
+H s
+F r
+C l
+F l
+H t
+A d
+H n
+A g
+D e
+F a
+C t
+B l
+F b
+E g
+D t
+D w
+H k
+H e
+A f
+A j
+G j
+A p
+F v
+H k
+H f
+C q
+D l
+C v
+C i
+H m
+E j
+H o
+D z
+E s
+D l
+C f
+G p
+G u
+D r
+E n
+B u
+D y
+C j
+F u
+E a
+B x
+H t
+gsiaztegrvcmivvvupbswkosdqdcbwqjqykpuoxljzztxwprnslmecehuhmyfchwcrnwhnktolmlidevvqhzuojoxxmdzubbnoax
