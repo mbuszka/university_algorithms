@@ -5,9 +5,12 @@
 #include <string.h>
 
 #define TRACE 0
-#define DEBUG 1
+#define DEBUG 0
 #define LEVEL_MARK 1001
 #define TABLE_LEN 1500007
+
+int table_len = TABLE_LEN;
+int len_lookup[8] = { 101, 101, 101, 1500007, 1500007, 1500007, 1500007, 1500007 };
 
 typedef struct {
   uint32_t next;
@@ -37,7 +40,7 @@ uint32_t hash(buckets_ptr bucket) {
     s += storage[bucket].b[i] * x;
     x *= 57;
   }
-  return s % TABLE_LEN;
+  return s % table_len;
 }
 
 std::queue<uint32_t> rest;
@@ -140,7 +143,7 @@ void bfs() {
 void hash_tbl_stats() {
   int cnt = 0;
   int max = 0;
-  for (int i = 0; i < TABLE_LEN; i++) {
+  for (int i = 0; i < table_len; i++) {
     if (hash_tbl[i] == EMPTY) continue;
     cnt ++;
     int sum = 0;
@@ -151,7 +154,7 @@ void hash_tbl_stats() {
     }
     max = max < sum ? sum : max;
   }
-  double avg_filled = (double) cnt / (double) TABLE_LEN;
+  double avg_filled = (double) cnt / (double) table_len;
   double avg_per_slot = (double) count / (double) cnt;
 
   printf("Hashtable usage statistics\n"
@@ -164,15 +167,18 @@ void run_set() {
   count = 1;
   level = 0;
   scanf("%d", &buckets_len);
-  
+  table_len = len_lookup[buckets_len];
   for (int i = 0; i < buckets_len; i++) {
     scanf("%hu", &capacities[i]);
     storage[0].b[i] = capacities[i];
   }
-
+  if (buckets_len == 1) {
+    printf("2 1\n");
+    return;
+  }
   storage[0].next = EMPTY;
   
-  for (int i = 0; i < TABLE_LEN; i ++) {
+  for (int i = 0; i < table_len; i ++) {
     hash_tbl[i] = EMPTY;
   }
 
